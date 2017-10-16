@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">activitytest</string>
+    <string name="hello">第一个Activity</string>
+    <string name="hello2">第二个Activity</string>
+</resources>
